@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # set video file path of input video with name and extension
-vid = cv2.VideoCapture('C:\P_workspace\workspace\개발과제\data1.avi')
+vid = cv2.VideoCapture('C:\P_workspace\workspace\개발과제\data.avi')
 
 
 if not os.path.exists('images/human'):
