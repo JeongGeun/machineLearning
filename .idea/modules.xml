@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AI인공지능/.idea/AI인공지능.iml" filepath="$PROJECT_DIR$/../AI인공지능/.idea/AI인공지능.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/개발과제.iml" filepath="$PROJECT_DIR$/.idea/개발과제.iml" />
+    </modules>
+  </component>
+</project>
